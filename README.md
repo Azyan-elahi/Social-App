@@ -49,7 +49,7 @@ A Facebook-inspired social media platform built with React — share posts, like
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/social-app-your-name.git
+git clone git remote add origin https://github.com/Azyan-elahi/Social-App.git
 cd social-app-your-name
 
 # 2. Install dependencies
@@ -61,6 +61,7 @@ npm run dev
 # 4. Open the app
 # Visit http://localhost:5175 in your browser
 ```
+
 
 ## Folder Structure
 src/
