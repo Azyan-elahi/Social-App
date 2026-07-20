@@ -4,7 +4,7 @@ A Facebook-inspired social media platform built with React — share posts, like
 
 ## Live Demo
 
-🔗 [Live Demo](your-deployed-link-here) *(replace with your Vercel/Netlify link after deploying)*
+🔗 [Live Demo](https://social-app-66pk.vercel.app/)
 
 ## Screenshots
 
